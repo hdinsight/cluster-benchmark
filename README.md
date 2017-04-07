@@ -5,7 +5,7 @@ cluster-benchmark
 
 1. Download it.
   ```
-  git clone https://github.com/dharmeshkakadia/cluster-benchmark && cd cluster-benchmark
+  git clone https://github.com/hdinsight/cluster-benchmark && cd cluster-benchmark
   ```
 
 2. Compile it.
